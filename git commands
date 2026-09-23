@@ -1,0 +1,3 @@
+>> for time need to configure github in our system
+git config  --global user.name "Sourav Das636"
+git config  --global user.email "souravdas63657@gmail.com"
